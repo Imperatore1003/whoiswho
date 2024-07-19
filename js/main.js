@@ -1,5 +1,5 @@
 // let images = ["lee hyein", "kang haerin", "danielle marsh", "hanni pham", "kim minji2", "im nayeon", "yoo jeongyeon", "park jihyo", "kim dahyun", "son chaeyoung", "kim jisoo", "kim jennie", "cho miyeon", "jeon soyeon", "seo soojin", "hwang yeji", "shin ryujin", "choi jisu", "lee chaeryeong", "shin yuna", "kim minji", "kim bora", "lee siyeon", "kim yoohyeon", "lee yubin", "lee gahyeon", "oh seunghee", "jang seungyeon", "choi yujin", "kwon eunbin", "jeon heejin", "kim hyunjin", "jung jinsoul", "kim jungeun", "choi yerim", "park chaewon", "kim jiwoo", "ha sooyoung", "im yeojin", "jo haseul", "son hyejoo", "han eunji", "heo yoorim", "jo serim", "park jiwon", "kim sihyeon", "kwon eunbi", "choi yena", "jo yuri", "kim chaewon", "kang hyewon", "lee chaeyeon", "kim minju", "an yujin", "jang wonyoung", "kim gaeul", "kim jiwon", "lee hyunseo", "huh yunjin", "kim garam", "hong eunchae", "seo youngeun", "kim chaehyun", "kim dayeon", "kang yeseo", "huening bahiyyih", "jeon somi", "choi yoojung", "kim doyeon", "kang mina", "kim chungha", "kim sejeong", "kim sohye", "jung chaeyeon", "kim yongsun", "moon byulyi", "ahn hyejin", "jung wheein", "lee sunmi", "bae joohyun", "kang seulgi", "kim yerim", "son seungwan", "park sooyoung", "yoo jimin", "kim minjeong", "hirai momo", "minatozaki sana", "myoui mina", "miyawaki sakura", "yabuki nako", "honda hitomi", "naoi rei", "sakamoto mashiro", "ezaki hikaru", "nakamura kazuha", "uchinaga aeri", "chou tzuyu", "yeh shuhua", "roseanne park", "manoban lalisa", "yontararak nicha", "chonnasorn sajakul", "song yuqi", "handong", "wong gaahei", "wang yiren", "shen xiaoting", "ning yizuho", "yoon seeun", "sim jayoon", "lee chaeyoung", "park sieun", "bae sumin", "jang yeeun", "moon sua", "rachel huh", "gnomino"];
-let images = ["lee hyein", "kang haerin", "danielle marsh", "hanni pham", "kim minji2", "im nayeon", "yoo jeongyeon", "park jihyo", "kim dahyun", "son chaeyoung", "kim jisoo", "kim jennie", "cho miyeon", "jeon soyeon", "seo soojin", "hwang yeji", "shin ryujin", "choi jisu", "lee chaeryeong", "shin yuna", "kim minji", "kim bora", "lee siyeon", "kim yoohyeon", "lee yubin", "lee gahyeon", "oh seunghee", "jang seungyeon", "choi yujin", "kwon eunbin", "jeon heejin", "kim hyunjin", "jung jinsoul", "kim jungeun", "choi yerim", "park chaewon", "kim jiwoo", "ha sooyoung", "im yeojin", "jo haseul", "son hyejoo", "han eunji", "heo yoorim", "jo serim", "park jiwon", "kim sihyeon", "kwon eunbi", "choi yena", "jo yuri", "kim chaewon", "kang hyewon", "lee chaeyeon", "kim minju", "an yujin", "jang wonyoung", "kim gaeul", "kim jiwon", "lee hyunseo", "huh yunjin", "kim garam", "hong eunchae", "seo youngeun", "kim chaehyun", "kim dayeon", "kang yeseo", "huening bahiyyih", "jeon somi", "choi yoojung", "kim doyeon", "kang mina", "kim chungha", "kim sejeong", "kim sohye", "jung chaeyeon", "kim yongsun", "moon byulyi", "ahn hyejin", "jung wheein", "lee sunmi", "bae joohyun", "kang seulgi", "kim yerim", "son seungwan", "park sooyoung", "yoo jimin", "kim minjeong", "hirai momo", "minatozaki sana", "myoui mina", "miyawaki sakura", "yabuki nako", "honda hitomi", "naoi rei", "sakamoto mashiro", "ezaki hikaru", "nakamura kazuha", "uchinaga aeri", "chou tzuyu", "yeh shuhua", "roseanne park", "manoban lalisa", "yontararak nicha", "chonnasorn sajakul", "song yuqi", "handong", "wong gaahei", "wang yiren", "shen xiaoting", "ning yizuho", "yoon seeun", "sim jayoon", "lee chaeyoung", "park sieun", "bae sumin", "jang yeeun", "moon sua"];
+let images = ["lee hyein", "kang haerin", "danielle marsh", "hanni pham", "kim minji2", "im nayeon", "yoo jeongyeon", "park jihyo", "kim dahyun", "son chaeyoung", "kim jisoo", "kim jennie", "cho miyeon", "jeon soyeon", "seo soojin", "hwang yeji", "shin ryujin", "choi jisu", "lee chaeryeong", "shin yuna", "jeon heejin", "kim hyunjin", "jung jinsoul", "kim jungeun", "choi yerim", "park chaewon", "kim jiwoo", "ha sooyoung", "im yeojin", "jo haseul", "son hyejoo", "kwon eunbi", "choi yena", "jo yuri", "kim chaewon", "kang hyewon", "lee chaeyeon", "kim minju", "an yujin", "jang wonyoung", "kim gaeul", "kim jiwon", "lee hyunseo", "huh yunjin", "kim garam", "hong eunchae", "seo youngeun", "kim chaehyun", "kim dayeon", "kang yeseo", "huening bahiyyih", "jeon somi", "lee sunmi", "bae joohyun", "kang seulgi", "kim yerim", "son seungwan", "park sooyoung", "yu jimin", "kim minjeong", "hirai momo", "minatozaki sana", "myoui mina", "miyawaki sakura", "yabuki nako", "honda hitomi", "naoi rei", "sakamoto mashiro", "ezaki hikaru", "nakamura kazuha", "uchinaga aeri", "chou tzuyu", "yeh shuhua", "roseanne park", "manoban lalisa", "yontararak nicha", "song yuqi", "wong gaahei", "shen xiaoting", "ning yizuho", "yoon seeun", "sim jayoon", "lee chaeyoung", "park sieun", "bae sumin", "jang yeeun", "moon sua", "lily morrow", "seol yoona", "oh haewon", "jang kyujin", "kim jiwoo2", "bae jinsol"];
 // let images = ["lee hyein", "kang haerin", "danielle marsh", "hanni pham", "kim minji2"];
 // console.log(images.length);
 
@@ -112,6 +112,9 @@ function newPerson(id) {
     if (person == "kim minji2") {
         person = "kim minji";
     }
+    if (person == "kim jiwoo2") {
+        person = "kim jiwoo";
+    }
 
     startTimeP = Date.now();
 }
@@ -153,9 +156,12 @@ function addToHistory(idImage) {
     
     imageP = "<img src='/images/" + images[idImage] + ".jpg' style='height: 100px; width: auto; margin: 0;'>";
 
-    person = images[idImage]    
+    person = images[idImage]
     if (person == "kim minji2") {
         person = "kim minji";
+    }
+    if (person == "kim jiwoo2") {
+        person = "kim jiwoo";
     }
 
     document.getElementById("history").innerHTML = "<tr><th scope='row'>" + capitalizeWords(person) + "</th><td>" + timeForPerson + "</td><td>" + imageP + "</td></tr>" + document.getElementById("history").innerHTML;
